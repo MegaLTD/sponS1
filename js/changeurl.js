@@ -1,5 +1,5 @@
 function changeurl1(){
-    let url0000000001 = "../La-Casa-De-Papel-S05/Episodes/Ep1/server1/play.html";
+    let url0000000001 = "https://myviid.com/embed-capf5lmwry4q.html";
     let url000000001 = "../La-Casa-De-Papel-S05/Episodes/Ep2/server1/play.html";
     let url00000001 = "../La-Casa-De-Papel-S05/Episodes/Ep3/server1/play.html";
     let url0000001 = "../La-Casa-De-Papel-S05/Episodes/Ep4/server1/play.html";
@@ -44,7 +44,7 @@ function changeurl1(){
 
 
 function changeurl2(){
-    let url0000000002 = "../La-Casa-De-Papel-S05/Episodes/Ep1/server2/play.html";
+    let url0000000002 = "https://vidbam.org/embed-szuo1byiv3m7.html";
     let url000000002 = "../La-Casa-De-Papel-S05/Episodes/Ep2/server2/play.html";
     let url00000002 = "../La-Casa-De-Papel-S05/Episodes/Ep3/server2/play.html";
     let url0000002 = "../La-Casa-De-Papel-S05/Episodes/Ep4/server2/play.html";
@@ -89,7 +89,7 @@ function changeurl2(){
 
 
 function changeurl3(){
-    let url0000000003 = "../La-Casa-De-Papel-S05/Episodes/Ep1/server3/play.html";
+    let url0000000003 = "https://vudeo.io/embed-5zh89vm4o6pg.html";
     let url000000003 = "../La-Casa-De-Papel-S05/Episodes/Ep2/server3/play.html";
     let url00000003 = "../La-Casa-De-Papel-S05/Episodes/Ep3/server3/play.html";
     let url0000003 = "../La-Casa-De-Papel-S05/Episodes/Ep4/server3/play.html";
@@ -134,7 +134,7 @@ function changeurl3(){
 
 
 function changeurl4(){
-    let url0000000004 = "../La-Casa-De-Papel-S05/Episodes/Ep1/server4/play.html";
+    let url0000000004 = "https://uqload.com/embed-p98b37bclh6r.html";
     let url000000004 = "../La-Casa-De-Papel-S05/Episodes/Ep2/server4/play.html";
     let url00000004 = "../La-Casa-De-Papel-S05/Episodes/Ep3/server4/play.html";
     let url0000004 = "../La-Casa-De-Papel-S05/Episodes/Ep4/server4/play.html";
